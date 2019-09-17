@@ -1,4 +1,4 @@
-# MeanstackCrudOperation
+# MEAN Stack CRUD Operations
 
 ## Development server
 
